@@ -1,0 +1,6 @@
+{
+  "name": "Linear Regression Lab",
+  "description": "Interactive machine learning playground demonstrating Simple Linear Regression, Ridge, and Lasso on housing data with visual fitting, metrics, and predicting controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
